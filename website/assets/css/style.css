@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+.navbar-expand-lg {
+    background: linear-gradient(to bottom, #111111, #333333); 
+    height: 60px; 
+}
+.navbar-expand-lg .nav-item{
+    color:white;
+}
