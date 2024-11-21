@@ -20,6 +20,11 @@ body{
 .nav-item {
     place-items: center;
 }
-.btn btn-primary{
-    place-items: right;
+.Contact{ 
+        padding: 20px;
+        border-radius: 10px; 
+}
+.Form {
+    padding: 90px; 
+    border-radius: 50px;
 }
