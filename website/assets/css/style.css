@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background-color: #f8f9fa; 
 }
 
 .first-heading {
@@ -11,7 +11,15 @@ body{
 .navbar-expand-lg {
     background: linear-gradient(to bottom, #111111, #333333); 
     height: 60px; 
+    place-items: center;
 }
 .navbar-expand-lg .nav-item{
     color:white;
+    place-items: center;
+}
+.nav-item {
+    place-items: center;
+}
+.btn btn-primary{
+    place-items: right;
 }
